@@ -1,0 +1,11 @@
+admin/node_modules/
+admin/dist/
+laravel/vendor/
+admin/debug.log
+laravel/.DS_Store
+laravel/resources/autoCode/
+laravel/.env
+admin/package-lock.json
+laravel/composer.lock
+*.bak
+laravel/_ide_helper.php
